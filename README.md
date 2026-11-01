@@ -1,4 +1,4 @@
-# Hi, I'm Ahmed Abdellatif 👋
+# Hi, I'm Ahmed Abdellatif
 
 **Full Stack Engineer @ RBC** · Former Senior Data Engineer · UBC Computer Science & Statistics  
 📍 Toronto, Ontario, Canada
@@ -19,15 +19,8 @@ I build web tools that turn data into decisions. Today I work on the full stack 
 ## 🛠️ Tech I work with
 
 - **Frontend:** Vue.js · Nuxt.js · HTML · CSS
-- **Data & Backend:** Python · R · MySQL · pandas · NumPy · scikit-learn · matplotlib
+- **Data & Backend:** Python · R · MySQL · Airflow 
 - **Areas:** Full-Stack Development · Software Infrastructure · Data Engineering · Machine Learning · Data Analysis
-
-![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat&logo=vuedotjs&logoColor=white)
-![Nuxt](https://img.shields.io/badge/Nuxt-00DC82?style=flat&logo=nuxt&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![R](https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikitlearn&logoColor=white)
 
 ## 🎓 Education
 
